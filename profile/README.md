@@ -7,6 +7,7 @@ We are a bunch of enthusiasts, who want to create beautiful, usable and most imp
 ### Useful links :link:
 
 -   [Unfolded Circle Core APIs](https://github.com/unfoldedcircle/core-api)
+-   [Unfolded Circle Remote-core simulator](https://github.com/unfoldedcircle/core-simulator)
 -   [Unfolded Circle website](https://unfoldedcircle.com)
 
 ### Contact us :speech_balloon:

@@ -26,4 +26,4 @@ There are a few different ways to reach us:
 -   [Reach out to us on Twitter](https://twitter.com/unfoldedcircle)
 -   [Visit our community forum](http://unfolded.community/)
 -   [Chat with us in our Discord channel](http://unfolded.chat/)
--   [Send us a message on our website](https://unfoldedcircle.com/contact)
+-   [Send us a message on our website](https://support.unfoldedcircle.com/)
